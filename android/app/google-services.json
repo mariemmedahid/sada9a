@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "68415664216",
+    "project_id": "chatgpt-bb1f5",
+    "storage_bucket": "chatgpt-bb1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68415664216:android:fb83d2a7c5c7aa015dda2d",
+        "android_client_info": {
+          "package_name": "com.example.sadague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68415664216-sgt8gqr6f2o67mh7h093prvrimruu4tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vNsUS65RMXkBn-pR3QYl49OaMxZhNNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68415664216-4b1p741b42c03m4jue1097tg59po0ga5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68415664216-4q3fr4th65m32g0qd8g77oai6c196bu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wecamesoft.elmewthough"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68415664216:android:940ff44cded718c65dda2d",
+        "android_client_info": {
+          "package_name": "com.wecamesoft.chatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68415664216-09qq6d97lopqht4d2on55kl4k960t4sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wecamesoft.chatgpt",
+            "certificate_hash": "0efd6edc792c5bb3799faf3247222ee8a25391d4"
+          }
+        },
+        {
+          "client_id": "68415664216-89hl935ma222l3e3ufmoqn9sk816qk7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wecamesoft.chatgpt",
+            "certificate_hash": "948c05eb90b34ce4759b8650c06260026e0b25f1"
+          }
+        },
+        {
+          "client_id": "68415664216-idv8ms62lk5ir83af60kffenomkkqqfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wecamesoft.chatgpt",
+            "certificate_hash": "08bc875ec44e49d98728dd8957566d15a1e01596"
+          }
+        },
+        {
+          "client_id": "68415664216-tbbhhu9gthtdmm45g8j8tjqj9ru56iar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wecamesoft.chatgpt",
+            "certificate_hash": "054018696923d2ee7e166f2186f9f73466adc27e"
+          }
+        },
+        {
+          "client_id": "68415664216-sgt8gqr6f2o67mh7h093prvrimruu4tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vNsUS65RMXkBn-pR3QYl49OaMxZhNNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68415664216-4b1p741b42c03m4jue1097tg59po0ga5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68415664216-4q3fr4th65m32g0qd8g77oai6c196bu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wecamesoft.elmewthough"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
